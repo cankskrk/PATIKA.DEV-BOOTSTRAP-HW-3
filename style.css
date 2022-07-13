@@ -1,0 +1,59 @@
+.navbar {
+    position: relative;
+}
+
+.main {
+    width: 42rem;
+}
+
+input {
+    border: none;
+    outline: none;
+    background: none;
+    box-shadow: 0 0 0px 1000px white inset; /*Auto complete input boyutu kadar mavi arkaplanı kapatır. */
+}
+
+a {
+    text-decoration: none;
+}
+
+.profileCircleLeft {
+    width: 6rem;
+    position: absolute;
+    top: 15%;
+}
+
+.leftSideCard-1 {
+    position: relative;
+}
+
+.profileCirclePost {
+    width: 4rem;
+}
+
+.postInfoSpan1 {
+    font-size: 16px;
+}
+
+.postInfoSpan2  {
+    font-size: 13px;
+}
+
+.postInfoSpan3 {
+    font-size: 12px;
+}
+
+.profileCircleRight {
+    width: 3rem;
+    height: 3rem;
+}
+
+.followBtn {
+    height: 50%;
+    border-radius: 3rem;
+}
+
+.kablosuzBeyin {
+    width: 2rem;
+    height: 2rem;
+}
